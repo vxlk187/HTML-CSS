@@ -1,0 +1,29 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h1#principal1{
+    background-color: aquamarine;
+}
+
+h2#principal1{
+    background-color: coral;
+}
+
+a{
+    color: rgb(184, 69, 3);
+}
+
+a:visited{
+    color: rgb(65, 25, 2);
+
+}
+
+a:hover{
+    color: rgb(146, 49, 49);   
+}
+
+a:active{
+    color: darkgreen;
+}
